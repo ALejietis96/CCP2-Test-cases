@@ -1,5 +1,4 @@
-# CCP2-Test-cases
-<h2>Creating first Test cases based on project Use cases</h2>
+# Creating first Test cases based on project Use cases
 
 <b>My second project that I participated during my time in Cerebrum Hub.</b>
 
