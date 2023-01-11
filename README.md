@@ -1,37 +1,37 @@
 # Creating first Test cases based on project Use cases
 
-<b>My second project that I participated during my time in Cerebrum Hub.</b>
+<b>My second project that I participated during my time in Cerebrum Hub.
 
-<b>First introduction to test cases, scenarios their proper creation based on Use cases and adjustment to real life situations</b>
+First introduction to test cases, scenarios their proper creation based on Use cases and adjustment to real life situations.
 
-- <b>Project about</b>
+- Project about:</b>
 
-  - <c>The large energy company decided to build an application, that will increase employee productivity and internal communication. The company has more than 3000 employees, that are distributed between tens of departments and several offices. The pandemic highlighted the need for an up to date, cross-device solution for reaching the entire organization. In the increasingly hybrid world, employees need to be empowered to make decisions and communicate openly with peers. </c>
+  - The large energy company decided to build an application, that will increase employee productivity and internal communication. The company has more than 3000 employees, that are distributed between tens of departments and several offices. The pandemic highlighted the need for an up to date, cross-device solution for reaching the entire organization. In the increasingly hybrid world, employees need to be empowered to make decisions and communicate openly with peers.
   
-  - <c>The project was executed a year ago and so far the development team managed to build and publish some functionalities (such as showing all company departments, users and relations between them).</c>
+  - The project was executed a year ago and so far the development team managed to build and publish some functionalities (such as showing all company departments, users and relations between them).
 
-  - <c>Unfortunately, those functionalities are documented very poorly which makes it hard to develop the application further. At the same time business clearly requires new functionalities, that will help to increase the productivity of employees.</c>
+  - Unfortunately, those functionalities are documented very poorly which makes it hard to develop the application further. At the same time business clearly requires new functionalities, that will help to increase the productivity of employees.
 
-- <b>Sprint about</b>
+- <b>Sprint about:
 
-  - <c>This was an existing project: 
+  - This was an existing project: </b>
 
-    - that I had to understand how it works currently, 
+    - that I had to understand how it works currently.
   
-    - had to explore and find if there are any existing bugs,
+    - had to explore and find if there are any existing bugs.
   
-    - had to test functionality according existing Use cases,
+    - had to test functionality according existing Use cases.
   
-    - had to test all the newly added modules according to documentation
+    - had to test all the newly added modules according to documentation.
   
-    - had to perform regresion testing to check if newly added functionalities introduced errors to legacy code</c>
+    - had to perform regresion testing to check if newly added functionalities introduced errors to legacy code.
 
-  - <c>Fulfill documentation using the Use cases as bases </c>
+  - <b>Fulfill documentation using the Use cases as bases.
   
-  - <c>Explore the application and report found bugs </c>
+  - Explore the application and report found bugs.</b>
   
-- <b>Files about</b>
+- <b>Files about:</b>
 
-  - <c>If in the file there are highlights with yellow, those are topics, that I contributed to </c>
+  - If in the file there are highlights with yellow, those are topics, that I contributed to.
 
-  - <c>Test cases - all test cases that were created by me based on Use cases or found bugs for ease of rediscovering of the errors if they reapear </c>
+  - Test cases - all test cases that were created by me based on Use cases or found bugs for ease of rediscovering of the errors if they reapear.
