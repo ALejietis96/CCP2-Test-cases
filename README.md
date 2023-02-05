@@ -32,6 +32,6 @@ Project about:</b>
   
 <b>Files about:</b>
 
-  - <i>If in the file there are highlights with yellow, those are topics, that I contributed to.</i>
+  <i>If in the file there are highlights with yellow, those are topics, that I contributed to.</i>
 
-  - <i>Test cases - ..... .pdf</i> - all test cases that were created by me based on Use cases or found bugs for ease of rediscovering of the errors if they reapear.
+  - <i>Test cases - ..... .pdf</i> - all test cases that were created by me based on Use cases or found bugs.
